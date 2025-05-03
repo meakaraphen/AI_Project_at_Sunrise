@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Documents/Data%20Science/AI/Sunris_AI_Project/Linear_Regression_Salary_Dataset/mlruns/0/993fd02dfbb94436942b39f4dcefac0a/artifacts
+deleted_time: 1746262372730
+end_time: 1746261266158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 993fd02dfbb94436942b39f4dcefac0a
+run_name: flawless-smelt-523
+run_uuid: 993fd02dfbb94436942b39f4dcefac0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746261259746
+status: 3
+tags: []
+user_id: USER
