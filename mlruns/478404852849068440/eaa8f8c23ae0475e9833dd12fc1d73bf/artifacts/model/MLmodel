@@ -1,0 +1,38 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.3
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.0
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 264516
+model_uuid: 6f730861046245f28767e894989d7923
+prompts: null
+run_id: eaa8f8c23ae0475e9833dd12fc1d73bf
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "tenure", "required": true}, {"type": "double",
+    "name": "MonthlyCharges", "required": true}, {"type": "double", "name": "TotalCharges",
+    "required": true}, {"type": "boolean", "name": "Contract_Month-to-month", "required":
+    true}, {"type": "boolean", "name": "InternetService_Fiber optic", "required":
+    true}, {"type": "boolean", "name": "TechSupport_No", "required": true}, {"type":
+    "boolean", "name": "OnlineSecurity_No", "required": true}, {"type": "boolean",
+    "name": "PaymentMethod_Electronic check", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-04 00:26:54.378096'

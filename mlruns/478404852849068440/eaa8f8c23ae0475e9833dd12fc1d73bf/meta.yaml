@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Share/mlruns/478404852849068440/eaa8f8c23ae0475e9833dd12fc1d73bf/artifacts
+end_time: 1746318418625
+entry_point_name: ''
+experiment_id: '478404852849068440'
+lifecycle_stage: active
+run_id: eaa8f8c23ae0475e9833dd12fc1d73bf
+run_name: efficient-zebra-795
+run_uuid: eaa8f8c23ae0475e9833dd12fc1d73bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746318414335
+status: 3
+tags: []
+user_id: USER
