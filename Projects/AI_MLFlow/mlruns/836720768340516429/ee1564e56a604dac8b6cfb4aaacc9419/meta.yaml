@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Share/Projects/AI_MLFlow/mlruns/836720768340516429/ee1564e56a604dac8b6cfb4aaacc9419/artifacts
+end_time: 1746840041034
+entry_point_name: ''
+experiment_id: '836720768340516429'
+lifecycle_stage: active
+run_id: ee1564e56a604dac8b6cfb4aaacc9419
+run_name: unleashed-crab-128
+run_uuid: ee1564e56a604dac8b6cfb4aaacc9419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746840036389
+status: 3
+tags: []
+user_id: USER

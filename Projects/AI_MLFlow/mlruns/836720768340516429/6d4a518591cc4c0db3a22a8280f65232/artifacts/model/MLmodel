@@ -1,0 +1,38 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 1742
+model_uuid: e1598d32064c4d5997d613598e6cabd1
+prompts: null
+run_id: 6d4a518591cc4c0db3a22a8280f65232
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "tenure", "required": true}, {"type": "double",
+    "name": "MonthlyCharges", "required": true}, {"type": "double", "name": "TotalCharges",
+    "required": true}, {"type": "boolean", "name": "Contract_Month-to-month", "required":
+    true}, {"type": "boolean", "name": "InternetService_Fiber optic", "required":
+    true}, {"type": "boolean", "name": "TechSupport_No", "required": true}, {"type":
+    "boolean", "name": "OnlineSecurity_No", "required": true}, {"type": "boolean",
+    "name": "PaymentMethod_Electronic check", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-10 01:15:13.502865'
