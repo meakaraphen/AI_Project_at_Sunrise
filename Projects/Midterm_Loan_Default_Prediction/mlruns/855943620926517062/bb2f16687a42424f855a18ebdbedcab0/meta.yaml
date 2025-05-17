@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Share/Projects/Midterm_Loan_Default_Prediction/mlruns/855943620926517062/bb2f16687a42424f855a18ebdbedcab0/artifacts
+end_time: 1747278761777
+entry_point_name: ''
+experiment_id: '855943620926517062'
+lifecycle_stage: active
+run_id: bb2f16687a42424f855a18ebdbedcab0
+run_name: SVM
+run_uuid: bb2f16687a42424f855a18ebdbedcab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747278758379
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Share/Projects/Midterm_Loan_Default_Prediction/mlruns/855943620926517062/1430881d17d749b38e7c81c000d956fb/artifacts
+end_time: 1747279645983
+entry_point_name: ''
+experiment_id: '855943620926517062'
+lifecycle_stage: active
+run_id: 1430881d17d749b38e7c81c000d956fb
+run_name: dapper-slug-996
+run_uuid: 1430881d17d749b38e7c81c000d956fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279645947
+status: 4
+tags: []
+user_id: USER

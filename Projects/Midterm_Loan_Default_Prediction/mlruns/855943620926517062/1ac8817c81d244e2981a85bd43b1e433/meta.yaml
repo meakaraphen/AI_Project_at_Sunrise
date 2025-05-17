@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Share/Projects/Midterm_Loan_Default_Prediction/mlruns/855943620926517062/1ac8817c81d244e2981a85bd43b1e433/artifacts
+end_time: 1747278758376
+entry_point_name: ''
+experiment_id: '855943620926517062'
+lifecycle_stage: active
+run_id: 1ac8817c81d244e2981a85bd43b1e433
+run_name: Logistic Regression
+run_uuid: 1ac8817c81d244e2981a85bd43b1e433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747278754873
+status: 3
+tags: []
+user_id: USER

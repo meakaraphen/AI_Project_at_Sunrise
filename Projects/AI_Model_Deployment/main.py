@@ -13,9 +13,9 @@ model = joblib.load("api_churn_model.pkl")
 
 # Pydantic model for request
 class ChurnInput(BaseModel):
-    tenure: float
+    tenure: floata
     MonthlyCharges: float
-    TotalCharges: float
+    TotalCharges: floata
     Contract_Month_to_month: int = Field(..., alias="Contract_Month-to-month")
     InternetService_Fiber_optic: int = Field(..., alias="InternetService_Fiber optic")
     TechSupport_No: int

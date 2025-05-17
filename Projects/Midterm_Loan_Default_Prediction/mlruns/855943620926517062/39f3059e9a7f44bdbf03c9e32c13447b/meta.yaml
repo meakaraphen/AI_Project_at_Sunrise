@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Github_Share/Projects/Midterm_Loan_Default_Prediction/mlruns/855943620926517062/39f3059e9a7f44bdbf03c9e32c13447b/artifacts
+end_time: 1747278222707
+entry_point_name: ''
+experiment_id: '855943620926517062'
+lifecycle_stage: active
+run_id: 39f3059e9a7f44bdbf03c9e32c13447b
+run_name: Random Forest
+run_uuid: 39f3059e9a7f44bdbf03c9e32c13447b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747278219155
+status: 3
+tags: []
+user_id: USER
