@@ -1,0 +1,42 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 2864
+model_uuid: 0b5947c712644b8dab3d58a2faaf9fa9
+prompts: null
+run_id: 0de6460b2d334e9db93bff4a5a952a69
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "Age", "required": true}, {"type": "long", "name":
+    "Monthly_Income", "required": true}, {"type": "long", "name": "Loan_Amount", "required":
+    true}, {"type": "long", "name": "Loan_Term_Months", "required": true}, {"type":
+    "long", "name": "Credit_Score", "required": true}, {"type": "long", "name": "Existing_Loans_Count",
+    "required": true}, {"type": "long", "name": "EMI_Burden", "required": true}, {"type":
+    "long", "name": "Loan_Year_2022", "required": true}, {"type": "long", "name":
+    "Loan_Year_2023", "required": true}, {"type": "long", "name": "Loan_Year_2024",
+    "required": true}, {"type": "long", "name": "Loan_Year_2025", "required": true},
+    {"type": "long", "name": "Gender_ordinal", "required": true}, {"type": "long",
+    "name": "Employment_Type_ordinal", "required": true}, {"type": "long", "name":
+    "Previous_Default_ordinal", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-24 12:21:52.324863'

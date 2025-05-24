@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/777857290557255565/60be206b9aea468fb840ec939d768516/artifacts
+deleted_time: 1747461368268
+end_time: 1747459719161
+entry_point_name: ''
+experiment_id: '777857290557255565'
+lifecycle_stage: deleted
+run_id: 60be206b9aea468fb840ec939d768516
+run_name: SVM
+run_uuid: 60be206b9aea468fb840ec939d768516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747459719093
+status: 4
+tags: []
+user_id: USER

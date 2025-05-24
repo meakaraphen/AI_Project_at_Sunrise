@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/126304146287965710
+creation_time: 1747461352544
+experiment_id: '126304146287965710'
+last_update_time: 1747461352544
+lifecycle_stage: active
+name: Pretrained_Model_Logging

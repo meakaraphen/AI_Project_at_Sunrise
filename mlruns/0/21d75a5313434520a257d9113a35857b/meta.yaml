@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/21d75a5313434520a257d9113a35857b/artifacts
+deleted_time: 1748067021899
+end_time: 1747457964927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 21d75a5313434520a257d9113a35857b
+run_name: GradientBoosting
+run_uuid: 21d75a5313434520a257d9113a35857b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747457961060
+status: 3
+tags: []
+user_id: USER
